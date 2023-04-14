@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852508939996",
+    "project_id": "notes-pro-e08e2",
+    "storage_bucket": "notes-pro-e08e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852508939996:android:54ba77ba940613d0e94619",
+        "android_client_info": {
+          "package_name": "edu.poly.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852508939996-hsu87ecba5r5539mcbmmt3s7j79nll9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2fmzIBE2eizM09KGNM__4B6NphXoRNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852508939996-hsu87ecba5r5539mcbmmt3s7j79nll9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
