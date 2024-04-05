@@ -9,7 +9,7 @@ pipeline {
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "10.0.1.67:8081"
         NEXUS_CREDENTIAL_ID = "admin_nexus"
-        NEXUS_REPOSITORY = "demo_nexus"
+        NEXUS_REPOSITORY = "DemoNotes"
     }
     stages {
         stage("Checkout"){
